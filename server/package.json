@@ -1,0 +1,17 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "whatsapp-clone",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "",
+    "start": "node server.js"
+  },
+  "author": "dannohh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9"
+  }
+}
